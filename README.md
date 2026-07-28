@@ -9,7 +9,7 @@
 <!--                    ANIMATED HERO BANNER                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Nitin%20Sharma&fontSize=72&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast&descSize=19&descAlignY=58&descColor=c4b5fd&stroke=6366f1&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Nitin%20Sharma&fontSize=72&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast&descSize=19&descAlignY=58&descColor=c4b5fd&stroke=6366f1&strokeWidth=2" width="100%" alt="Nitin Sharma — AI & ML Enthusiast header banner"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                        -->
@@ -39,7 +39,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -125,7 +125,7 @@ print(me)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -171,7 +171,7 @@ print(me)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -270,7 +270,7 @@ Health Parameters → Preprocessing
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -319,7 +319,7 @@ Health Parameters → Preprocessing
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -385,7 +385,7 @@ CGPA: **8.38**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -450,7 +450,7 @@ Focused on data-driven decisions and ethical AI
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -465,20 +465,24 @@ Focused on data-driven decisions and ethical AI
 <br/>
 
 <a href="https://github.com/NitinGT39">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=NitinGT39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=a5b4fc&ring_color=6366f1&border_radius=12" alt="GitHub Stats"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGT39&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&border_radius=12" alt="Top Languages"/>
+<img height="185em"
+     src="https://github-readme-stats.vercel.app/api?username=NitinGT39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+     alt="Nitin Sharma's GitHub Stats"/>
+<img height="185em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGT39&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+     alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-<img width="68%" src="https://streak-stats.demolab.com/?user=NitinGT39&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=6366f1&dates=6b7280&stroke=6366f1&border_radius=12" alt="GitHub Streak"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=NitinGT39&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=6366f1&dates=6b7280&stroke=6366f1&border_radius=12" alt="Nitin Sharma's GitHub streak"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/NitinGT39">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NitinGT39&bg_color=0d1117&color=a5b4fc&line=6366f1&point=8b5cf6&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph%20·%20NitinGT39&radius=12" alt="Contribution Graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NitinGT39&bg_color=0d1117&color=a5b4fc&line=6366f1&point=8b5cf6&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph%20·%20NitinGT39&radius=12" alt="Nitin Sharma's contribution activity graph"/>
 </a>
 
 </div>
@@ -501,13 +505,13 @@ Focused on data-driven decisions and ethical AI
     width="96%"/>
 </picture>
 
-<sub>Renders once the <a href="https://github.com/Platane/snk">contribution-snake GitHub Action</a> is set up on your own profile repo.</sub>
+<sub>Renders once the <a href="https://github.com/Platane/snk">contribution-snake GitHub Action</a> runs on this repo — see <code>.github/workflows/snake.yml</code> below.</sub>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -534,7 +538,7 @@ Focused on data-driven decisions and ethical AI
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%" alt=""/>
 
 <br/>
 
@@ -567,7 +571,7 @@ Focused on data-driven decisions and ethical AI
 <!--                     FOOTER                                 -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&height=130&section=footer&text=Thanks%20for%20visiting%20·%20Let%27s%20connect!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=72&desc=NitinGT39%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20India%20🇮🇳&descSize=13&descAlignY=90&descColor=c4b5fd" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&height=130&section=footer&text=Thanks%20for%20visiting%20·%20Let%27s%20connect!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=72&desc=NitinGT39%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20India%20🇮🇳&descSize=13&descAlignY=90&descColor=c4b5fd" width="100%" alt="Footer wave banner — thanks for visiting" />
 
 <div align="center">
 
