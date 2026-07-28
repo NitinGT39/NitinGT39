@@ -39,7 +39,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -450,7 +450,7 @@ Focused on data-driven decisions and ethical AI
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NitinGT39/NitinGT39/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
