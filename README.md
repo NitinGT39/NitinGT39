@@ -9,7 +9,7 @@
 <!--                    ANIMATED HERO BANNER                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Nitin%20Sharma&fontSize=72&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast&descSize=19&descAlignY=58&descColor=c4b5fd&stroke=6366f1&strokeWidth=2" width="100%" alt="Nitin Sharma — AI & ML Enthusiast header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&customColorList=12,20,24,30&text=Nitin%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Nitin Sharma Header"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                        -->
